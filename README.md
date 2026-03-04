@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Anna
+Junior Data Analyst | Python • SQL • Power BI • Tableau
 
-<!--
-**Anna-Vasilieva/Anna-Vasilieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently completed a Data Analytics Bootcamp where I gained hands-on experience in data cleaning, analysis and visualisation.
 
-Here are some ideas to get you started:
+## Skills
+- Python (Pandas)
+- SQL
+- Power BI
+- Tableau
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Northumbria Crime Analysis
+- Bootcamp Data Exercises
+
+- 🔭 I’m currently working on improving my Northumbria Crime Analysis
+- 🌱 I’m currently learning Excel on Coursera
+- 📫 How to reach me: www.linkedin.com/in/anita-vasilieva-68b9332b9
+- ⚡ Fun fact: I speak English, Latvian, Russian and Japanese
