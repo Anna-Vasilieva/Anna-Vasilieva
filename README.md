@@ -14,6 +14,7 @@ I recently completed a Data Analytics Bootcamp where I gained hands-on experienc
 - Northumbria Crime Analysis
 - Bootcamp Data Exercises
 
+- 🌍 I'm based in Newcastle-upon-Tyne
 - 🔭 I’m currently working on improving my Northumbria Crime Analysis
 - 🌱 I’m currently learning Excel on Coursera
 - 📫 How to reach me: www.linkedin.com/in/anita-vasilieva-68b9332b9
